@@ -1,0 +1,6 @@
+Project Structure (generated on 2024-09-28 15:11:38.550371):
+
+BuildStructure/
+├── main.py
+├── structure/
+│   └── project_structure.txt
